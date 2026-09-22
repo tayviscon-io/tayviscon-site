@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tayviscon.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tayviscon.com/courses</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tayviscon.com/courses/java</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tayviscon.com/courses/sql</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tayviscon.com/courses/jdbc</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/http-servlets</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/apache-maven</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/junit-5</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/gradle</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/hibernate</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/spring</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/bash</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tayviscon.com/courses/docker</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tayviscon.com/courses/apache-kafka</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tayviscon.com/courses/pattern</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tayviscon.com/blog</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tayviscon.com/blog/systems/online-code-execution</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

@@ -1,0 +1,35 @@
+server:
+  port: 8080
+  forward-headers-strategy: framework
+  servlet:
+    session:
+      cookie:
+        http-only: true
+        same-site: lax
+        secure: ${SERVER_SERVLET_SESSION_COOKIE_SECURE:false}
+
+youtube:
+  channel-id: ${YOUTUBE_CHANNEL_ID:UCZhzhQbtFdKturwa_7FGIMA}
+
+# GitHub OAuth App callback: http://localhost:8080/login/oauth2/code/github
+spring:
+  web:
+    locale: ru_RU
+    locale-resolver: fixed
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/tayviscon}
+    username: ${SPRING_DATASOURCE_USERNAME:tayviscon}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  flyway:
+    enabled: true
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: ${GITHUB_OAUTH_CLIENT_ID:}
+            client-secret: ${GITHUB_OAUTH_CLIENT_SECRET:}

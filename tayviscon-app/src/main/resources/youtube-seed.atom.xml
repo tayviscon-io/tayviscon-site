@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCZhzhQbtFdKturwa_7FGIMA"/>
+ <id>yt:channel:ZhzhQbtFdKturwa_7FGIMA</id>
+ <yt:channelId>ZhzhQbtFdKturwa_7FGIMA</yt:channelId>
+ <title>Tayviscon</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCZhzhQbtFdKturwa_7FGIMA"/>
+ <author>
+  <name>Tayviscon</name>
+  <uri>https://www.youtube.com/channel/UCZhzhQbtFdKturwa_7FGIMA</uri>
+ </author>
+ <published>2023-12-27T05:51:41+00:00</published>
+ <entry>
+  <id>yt:video:lhGamS89atg</id>
+  <yt:videoId>lhGamS89atg</yt:videoId>
+  <yt:channelId>UCZhzhQbtFdKturwa_7FGIMA</yt:channelId>
+  <title>Tayviscon: Рождение из хаоса</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lhGamS89atg"/>
+  <author>
+   <name>Tayviscon</name>
+   <uri>https://www.youtube.com/channel/UCZhzhQbtFdKturwa_7FGIMA</uri>
+  </author>
+  <published>2024-08-05T18:04:19+00:00</published>
+  <updated>2026-09-11T16:19:26+00:00</updated>
+  <media:group>
+   <media:title>Tayviscon: Рождение из хаоса</media:title>
+   <media:content url="https://www.youtube.com/v/lhGamS89atg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lhGamS89atg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Добро пожаловать на первое видео из серии &quot;История Tayviscon&quot;! В этом выпуске я рассказываю о том, как зародился проект Tayviscon — от первых идей до работы над прототипом. Узнайте, как из небольшой задумки, возникшей на третьем курсе университета, проект стал настоящим образовательным инструментом. Подписывайтесь на канал, чтобы не пропустить следующие видео и узнать всю историю!</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="79"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pKrDonOhoGU</id>
+  <yt:videoId>pKrDonOhoGU</yt:videoId>
+  <yt:channelId>UCZhzhQbtFdKturwa_7FGIMA</yt:channelId>
+  <title>Tayviscon: Трейлер</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pKrDonOhoGU"/>
+  <author>
+   <name>Tayviscon</name>
+   <uri>https://www.youtube.com/channel/UCZhzhQbtFdKturwa_7FGIMA</uri>
+  </author>
+  <published>2024-05-19T09:53:11+00:00</published>
+  <updated>2026-09-11T02:15:31+00:00</updated>
+  <media:group>
+   <media:title>Tayviscon: Трейлер</media:title>
+   <media:content url="https://www.youtube.com/v/pKrDonOhoGU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pKrDonOhoGU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Привет, друзья! С вами Темыч Товкач. Сегодня я расскажу о своем проекте Tayviscon, который меняет представление об обучении программированию. 
+
+Хотите узнать, как преодолеть трудности в обучении и найти вдохновение? Подписывайтесь и присоединяйтесь к нашему сообществу, чтобы вместе исследовать и расти в мире IT.</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="155"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
+

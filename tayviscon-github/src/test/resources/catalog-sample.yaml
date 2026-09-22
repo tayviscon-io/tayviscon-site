@@ -1,0 +1,10 @@
+series: yet-another-course
+courses:
+  - id: java
+    title: Yet Another Java Course
+    path: courses/java
+    status: stub
+  - id: sql
+    title: Yet Another SQL Course
+    path: courses/sql
+    status: published

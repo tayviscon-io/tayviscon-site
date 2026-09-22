@@ -1,0 +1,23 @@
+type: marketplace
+title: Yet Another SQL Course
+language: Russian
+summary: "Yet Another SQL Course - это курс от компании Tayviscon IO из серии «Yet\
+  \ Another Course», демонстрирующий пользу, классификацию и практические приемы р\
+  аботы с SQL, которые вы можете использовать для решения типовых задач: от написа\
+  ния запросов и оптимизации производительности до управления транзакциями и проек\
+  тирования схем данных. \n\nСтоит отметить, что вы можете вполне успешно работать\
+  \ с базами данных, зная лишь основы SQL, однако, освоив эти приёмы, вы получаете\
+  \ ещё один инструмент в свой личный набор профессионала."
+programming_language: Java
+content:
+  - Введение
+  - Подготовка к обучению
+  - Основы SQL и баз данных
+  - Продвинутый SQL для работы с данными
+  - Серверное программирование на SQL
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
+  - name: common/image/yet-another-sql-course-logo.svg
+yaml_version: 5

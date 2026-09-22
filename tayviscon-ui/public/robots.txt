@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /api/
+
+Sitemap: https://tayviscon.com/sitemap.xml
